@@ -2,7 +2,7 @@ Todo-Pascal
 ===========
 
 Simple task managment application (c) Vova Zolotoy 2014
------------
+
 
 Yeah, it's written in Pascal! Why? For fun! Pascal was
 my first programing language. I miss it. I decide to use it
