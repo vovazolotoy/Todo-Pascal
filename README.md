@@ -1,7 +1,7 @@
 Todo-Pascal
 ===========
 
-Simple task managment application (c) Vova Zolotoy 2014
+Simple task managment application (c) Vlad Zolotoy 2014
 
 
 Yeah, it's written in Pascal! Why? For fun! Pascal was
